@@ -1,24 +1,23 @@
-# Ziff-s-Law-project
-**Zipf’s Law** is a fascinating statistical principle that reveals a hidden pattern in the way words are used in natural language. Here's a clear explanation:
+Here's a concise **project summary** based on your slides and contributions, including the dataset used:
+📘 **Project Summary: Zipf’s Law – Finding Hidden Patterns in Data**
 
----
+**Team Name:** *Roomies*
+**Team Members:** Tanima Samanta, Koyna Arya, Aparajita K Singh, Riddhi Khera
 
-🔍 **What is Zipf’s Law?**
+In this project, we explored **Zipf’s Law**, a statistical phenomenon commonly found in natural language datasets. The law states that in any large collection of text, the frequency of a word is inversely proportional to its rank in the frequency table. Our goal was to test this principle using real-world data and visualize the resulting patterns.
 
-Zipf's Law states that in a large body of natural language (like books, web pages, or speeches), the frequency of any word is **inversely proportional to its rank** in the frequency table.
+🔍 **Dataset Used:**
+We analyzed the **lyrics of songs by the band COLDPLAY**. The dataset was compiled to contain a representative sample of Coldplay’s discography, offering a rich and diverse text corpus for word frequency analysis.
 
-In Simple Terms:
+🛠️ **What We Did:**
 
-* The **most common word** appears **twice as often** as the second most common word.
-* The **third most common** appears **one-third as often**, and so on.
+* **Preprocessed the text data** by removing stopwords, punctuation, and performing tokenization.
+* **Calculated word frequencies** and ranked words by their occurrence.
+* **Visualized Zipfian patterns** using rank-frequency and log-log plots.
+* **Verified the Zipfian distribution**
+* **Collaboratively coded** in Python using Google Colab and visualized results using **Matplotlib**.
+* **Documented and explained** both the theoretical foundation and practical findings of the study.
 
-So if:
+🎯 Each team member contributed equally, focusing on research, coding, visualization, documentation, and presentation.
 
-* "the" (rank 1) appears **1000** times,
-* "of" (rank 2) might appear **500** times,
-* "and" (rank 3) might appear **333** times.
-
-📊 **Why It Matters:**
-
-* Zipf’s Law helps in **language modeling**, **information retrieval**, **data compression**, and even **city population distributions** or **website traffic patterns**.
-* It reveals how **few items** (e.g., common words) dominate usage, while **many items** are rare.
+The final results confirmed that **Coldplay's lyrics follow Zipf’s Law**, demonstrating that even in artistic or musical text, natural language follows statistically predictable patterns.
