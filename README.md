@@ -1,7 +1,7 @@
 Here's a concise **project summary** based on your slides and contributions, including the dataset used:
 📘 **Project Summary: Zipf’s Law – Finding Hidden Patterns in Data**
 
-**Team Name:** *Roomies❤️🌻* <br>
+**Team Name:** *Roomies❤️🌻* <br/>
 **Team Members:** Tanima Samanta, Koyna Arya, Aparajita K Singh, Riddhi Khera
 
 In this project, we explored **Zipf’s Law**, a statistical phenomenon commonly found in natural language datasets. The law states that in any large collection of text, the frequency of a word is inversely proportional to its rank in the frequency table. Our goal is to test this principle using real-world data and visualize the resulting patterns.
